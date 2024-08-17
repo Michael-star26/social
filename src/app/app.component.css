@@ -1,0 +1,21 @@
+.form{
+    background-color: transparent;
+    width: fit-content;
+    border-radius: 15px;
+    margin: 4px;
+}
+header{
+    background-color: transparent;
+    padding: 5px;
+    margin: 3px;
+    box-shadow: 2px 3px 2px aliceblue;
+    font-family: harrington;
+    font-size: xx-large;
+}
+
+.overview{
+    font-size: larger;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    width: fit-content;
+    padding: 4px;
+}

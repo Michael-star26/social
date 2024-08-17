@@ -1,0 +1,41 @@
+.votes{
+    margin: auto;
+    width: fit-content;
+    box-shadow: 2px 3px 2px darkgrey;
+    padding: 3px;
+    font-size: small;
+    border-radius: 15px;
+    background-color: transparent;
+    
+}
+.vote{
+    margin: 2px;
+}
+.column{
+    margin: 2px;
+}
+
+a{
+    text-decoration: none;
+    color: black;
+}
+.statistic{
+    background-color: transparent;
+    padding: 5px;
+    width: max-content;
+    font-size: xx-small;
+    box-shadow: none;
+    margin: auto;
+    
+}
+.value{
+    font-size: xx-small;
+    
+}
+
+.up{
+    color: rgb(15, 236, 15);
+}
+.down{
+    color: rgb(236, 30, 15);
+}
